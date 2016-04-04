@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  瀑布流-Swift
 //
-//  Created by myhg on 16/3/29.
+//  Created by zhuming on 16/3/29.
 //  Copyright © 2016年 zhuming. All rights reserved.
 //
 
